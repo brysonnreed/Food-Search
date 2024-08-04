@@ -2,7 +2,7 @@
 	"name": "vuejs-search-meals",
 	"private": true,
 	"version": "0.0.0",
-	"homepage": "https://brysonnreed.github.io/Food-Search/",
+	"homepage": "https://brysonnreed.github.io/Food-Search",
 	"type": "module",
 	"scripts": {
 		"dev": "vite --port=3000",
